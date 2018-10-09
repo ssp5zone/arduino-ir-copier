@@ -45,17 +45,13 @@ If you want to run this project locally,
 
 The device using Arduino Nano. You can use any other board too.
 
-_Packed inside an old power bank_
 ![](/docs/ir-packed.jpg)
 
 ![](/docs/ir-opening.jpg)
 
-_The Reciever and Transmitter_
 ![](/docs/ir-front.jpg)
 
-_Inside the box_
 ![](/docs/ir-inside.jpg)
-
 
 ## Licence
 
